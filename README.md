@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arihanthadagali
+- 👋 Hi, I’m Arihant
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning bachelor degree in Computer Science
 - 💞️ I’m looking to collaborate in coding
